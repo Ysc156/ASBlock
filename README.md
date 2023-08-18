@@ -1,5 +1,6 @@
 # ASBlock
 
+<<<<<<< HEAD
 Our pretrained model achieves the following performances on :
 
 **Enhancing U-Net with Attention Skip Block for 3D Point Cloud Segmentation**<br>(https://github.com/Ysc156/ASBlock)
@@ -12,6 +13,11 @@ Our pretrained model achieves the following performances on :
 
 ## Results
 
+=======
+## Results
+
+Our pretrained model achieves the following performances on :
+>>>>>>> b6f36f3bcee19239003c0e7cf9e8ee7fbb0ff52c
 
 
 ### [3D Part Segmentation on ShapeNetPart](https://paperswithcode.com/sota/3d-part-segmentation-on-shapenet-part)
@@ -30,4 +36,8 @@ Our pretrained model achieves the following performances on :
 | [PointTransformer + ASBlock](https://drive.google.com/drive/folders/1xMPEHWA9xO1FzLmMhK1oiIQIXFVMCbMx?usp=sharing)  |   70.9%(+0.4%)    |     77.8%(+0.9%)     |       90.7%       |
 
 ## Acknowledgement
+<<<<<<< HEAD
 This code is derived from e.g., [Pointnet_Pointnet2_pytorch](https://github.com/yanx27/Pointnet_Pointnet2_pytorch), [CurveNet](https://github.com/tiangexiang/CurveNet), [PointStack](https://github.com/LongerVision/PointStack), [KPConv-PyTorch](https://github.com/HuguesTHOMAS/KPConv-PyTorch), [point-transformer](https://github.com/POSTECH-CVLab/point-transformer), and inspirited by several repos, e.g., [PCT](https://github.com/MenghaoGuo/PCT), [spotr](https://github.com/mlvlab/spotr).
+=======
+This code is derived from e.g., [Pointnet_Pointnet2_pytorch](https://github.com/yanx27/Pointnet_Pointnet2_pytorch), [CurveNet](https://github.com/tiangexiang/CurveNet), [PointStack](https://github.com/LongerVision/PointStack), [KPConv-PyTorch](https://github.com/HuguesTHOMAS/KPConv-PyTorch), [point-transformer](https://github.com/POSTECH-CVLab/point-transformer), and inspirited by several repos, e.g., [PCT](https://github.com/MenghaoGuo/PCT), [spotr](https://github.com/mlvlab/spotr).
+>>>>>>> b6f36f3bcee19239003c0e7cf9e8ee7fbb0ff52c
